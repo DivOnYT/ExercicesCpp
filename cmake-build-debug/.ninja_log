@@ -1,7 +1,10 @@
 # ninja log v5
-1351	1752	7282917365707400	Exercices_C__.exe	4fa54368a6f26a82
-10	1039	7294104643602065	build.ninja	e7873e2998b5e21b
-18	1344	7282917361907211	CMakeFiles/Exercices_C__.dir/ExerciceII/ExerciceII-E-5.cpp.obj	c1ada779c81423be
-24	525	7294104643602065	build.ninja	e7873e2998b5e21b
-11	1062	7294104781616589	CMakeFiles/Exercices_C__.dir/Exercices/Exercice2.cpp.obj	bc6ce30daf99a9a3
-1063	1424	7294104785096607	Exercices_C__.exe	e2e3366a530d47dd
+14	731	7294114070334167	CMakeFiles/Exercices_C__.dir/Exercices/Exercice5.cpp.obj	4b4dd59dd286634d
+732	946	7294114072368467	Exercices_C__.exe	3f49edf59dd00821
+5	578	7294115381475764	build.ninja	e7873e2998b5e21b
+18	1467	7294107745744723	CMakeFiles/Exercices_C__.dir/Exercices/Exercice2.cpp.obj	bc6ce30daf99a9a3
+27	873	7294115315403209	CMakeFiles/Exercices_C__.dir/Exercices/Exercice6.cpp.obj	768c86e3d51bd89
+12	962	7294108427706323	CMakeFiles/Exercices_C__.dir/Exercices/Exercice3.cpp.obj	f26102e5b2d23a7c
+16	780	7294110169579645	CMakeFiles/Exercices_C__.dir/Exercices/Exercice4.cpp.obj	2ee7b3d36eceebee
+9	401	7294115381475764	build.ninja	e7873e2998b5e21b
+9	224	7294115384075757	Exercices_C__.exe	215b88149b14678c
