@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/ARGON/CLionProjects/Exercices_C++/cmake-build-de
 
 build cmake_object_order_depends_target_Exercices_C__: phony || CMakeFiles/Exercices_C__.dir
 
-build CMakeFiles/Exercices_C__.dir/Exercices/Exercice6.cpp.obj: CXX_COMPILER__Exercices_C___unscanned_Debug C$:/Users/ARGON/CLionProjects/Exercices_C++/Exercices/Exercice6.cpp || cmake_object_order_depends_target_Exercices_C__
-  DEP_FILE = CMakeFiles\Exercices_C__.dir\Exercices\Exercice6.cpp.obj.d
+build CMakeFiles/Exercices_C__.dir/Exercices/Exercice25.cpp.obj: CXX_COMPILER__Exercices_C___unscanned_Debug C$:/Users/ARGON/CLionProjects/Exercices_C++/Exercices/Exercice25.cpp || cmake_object_order_depends_target_Exercices_C__
+  DEP_FILE = CMakeFiles\Exercices_C__.dir\Exercices\Exercice25.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Exercices_C__.dir
   OBJECT_FILE_DIR = CMakeFiles\Exercices_C__.dir\Exercices
@@ -63,7 +63,7 @@ build CMakeFiles/Exercices_C__.dir/Exercices/Exercice6.cpp.obj: CXX_COMPILER__Ex
 #############################################
 # Link the executable Exercices_C__.exe
 
-build Exercices_C__.exe: CXX_EXECUTABLE_LINKER__Exercices_C___Debug CMakeFiles/Exercices_C__.dir/Exercices/Exercice6.cpp.obj
+build Exercices_C__.exe: CXX_EXECUTABLE_LINKER__Exercices_C___Debug CMakeFiles/Exercices_C__.dir/Exercices/Exercice25.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Exercices_C__.dir
