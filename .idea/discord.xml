@@ -3,5 +3,10 @@
   <component name="DiscordProjectSettings">
     <option name="show" value="PROJECT_FILES" />
     <option name="description" value="" />
+    <option name="theme" value="atom" />
+    <option name="button1Title" value="Join Me on Github" />
+    <option name="button1Url" value="https://github.com/DivOnYT" />
+    <option name="button2Title" value="Hire me" />
+    <option name="button2Url" value="https://fr.fiverr.com/cmedhrouville?up_rollout=true" />
   </component>
 </project>

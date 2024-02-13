@@ -1,12 +1,13 @@
 # ninja log v5
-882	1213	7294252419797321	Exercices_C__.exe	2c42e4a32d149423
+1047	1332	7295637649469570	Exercices_C__.exe	136e759e6726bdfd
 18	1467	7294107745744723	CMakeFiles/Exercices_C__.dir/Exercices/Exercice2.cpp.obj	bc6ce30daf99a9a3
-6	543	7294819535325160	build.ninja	e7873e2998b5e21b
+10	850	7295638393369841	build.ninja	e7873e2998b5e21b
+30	1045	7295637646719543	CMakeFiles/Exercices_C__.dir/Exercices/Exercice29.cpp.obj	c77d98215dd8d3c7
 14	731	7294114070334167	CMakeFiles/Exercices_C__.dir/Exercices/Exercice5.cpp.obj	4b4dd59dd286634d
-12	962	7294108427706323	CMakeFiles/Exercices_C__.dir/Exercices/Exercice3.cpp.obj	f26102e5b2d23a7c
 27	873	7294115315403209	CMakeFiles/Exercices_C__.dir/Exercices/Exercice6.cpp.obj	768c86e3d51bd89
 15	1050	7294243467537678	CMakeFiles/Exercices_C__.dir/Exercices/Exercice18.cpp.obj	6cb0803451202441
 5	850	7294215087342472	CMakeFiles/Exercices_C__.dir/Exercices/Exercice7.cpp.obj	7c707373c161b556
+12	962	7294108427706323	CMakeFiles/Exercices_C__.dir/Exercices/Exercice3.cpp.obj	f26102e5b2d23a7c
 16	780	7294110169579645	CMakeFiles/Exercices_C__.dir/Exercices/Exercice4.cpp.obj	2ee7b3d36eceebee
 6	1053	7294220804882350	CMakeFiles/Exercices_C__.dir/Exercices/Exercice9.cpp.obj	7a9d937e99ae8fb9
 5	830	7294218250476151	CMakeFiles/Exercices_C__.dir/Exercices/Exercice8.cpp.obj	6fda34adde9e05fb
@@ -24,4 +25,7 @@
 5	1036	7294247535228316	CMakeFiles/Exercices_C__.dir/Exercices/Exercice22.cpp.obj	4ac7f5f34af8f7e8
 5	939	7294248265540683	CMakeFiles/Exercices_C__.dir/Exercices/Exercice23.cpp.obj	9fc2328b1523eef4
 5	869	7294248871103448	CMakeFiles/Exercices_C__.dir/Exercices/Exercice24.cpp.obj	8d136379965be833
-12	880	7294252416617098	CMakeFiles/Exercices_C__.dir/Exercices/Exercice25.cpp.obj	69c43a301f3403c3
+19	1882	7295577977496794	CMakeFiles/Exercices_C__.dir/Exercices/Exercice25.cpp.obj	69c43a301f3403c3
+23	1171	7295586372207819	CMakeFiles/Exercices_C__.dir/Exercices/Exercice26.cpp.obj	db4e2b20a92a110f
+13	1023	7295588816476106	CMakeFiles/Exercices_C__.dir/Exercices/Exercice27.cpp.obj	7b1d080b6f2a04bf
+15	788	7295593931560352	CMakeFiles/Exercices_C__.dir/Exercices/Exercice28.cpp.obj	eb0a10d3419a2fb6
